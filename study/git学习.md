@@ -19,3 +19,5 @@
 	1. `git add xxx`
 	1. `git commit -m "xxxx"`
 	1. `git push`
+1. 下载文件
+	1. `git pull`
