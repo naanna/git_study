@@ -14,4 +14,8 @@
 	1. `git config --global user.name "nameVal"`
 	1. `git config --global user.email "eamil@qq.com"`
 	1. `git config user.name/email`
- 
+1. 上传文件
+	1. `git add xxx`
+	1. `git status`
+	1. `git commit -m "xxxx"`
+	1. `git push`
