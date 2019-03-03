@@ -21,3 +21,5 @@
 	1. `git push`
 1. 下载文件
 	1. `git pull`
+1. 克隆项目
+	1. `git clone xxxxx`
