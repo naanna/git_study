@@ -23,3 +23,6 @@
 	1. `git pull`
 1. 克隆项目
 	1. `git clone xxxxx`
+## Android studio 上传
+1. git init
+1. git remote add origin git@github.com:naanna/xxx.git
