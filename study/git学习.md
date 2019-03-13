@@ -25,4 +25,7 @@
 	1. `git clone xxxxx`
 ## Android studio 上传
 1. git init
-1. git remote add origin git@github.com:naanna/xxx.git
+1. git add .
+1. git commit -m “commit info”
+1. git remote add origin git@github.com:naanna/xxx.git(若要移除可先输入git remote rm origin )
+1. git push origin master (若出错则说明没有同步可先输入git pull origin master)
